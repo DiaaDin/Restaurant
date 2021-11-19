@@ -203,8 +203,14 @@ header.active {
 
 #home .container .content p {
   color: #FFF;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   margin-bottom: 2rem;
+}
+
+#home .container .content .button {
+  font-size: 1.5rem;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
 }
 
 #about {
