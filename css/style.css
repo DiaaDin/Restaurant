@@ -30,6 +30,9 @@ body {
   border: 1px solid #F48B29;
   padding: .7rem 1.7rem;
   border-radius: 20px;
+  font-size: 1.5rem;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
   cursor: pointer;
 }
 
@@ -205,12 +208,6 @@ header.active {
   color: #FFF;
   font-size: 1.5rem;
   margin-bottom: 2rem;
-}
-
-#home .container .content .button {
-  font-size: 1.5rem;
-  -webkit-transition: all 0.3s linear;
-  transition: all 0.3s linear;
 }
 
 #about {
